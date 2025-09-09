@@ -37,7 +37,7 @@ Check out my [challenge progress here](https://github.com/rishabh-397/50-Days-of
 ### 📌 Featured Repositories  
 - 🔗 [Weather App with Voice AI](https://github.com/rishabh-397/Voice-Weather-App) – Full-featured voice-based weather application  
 - 🔗 [50 Days of Coding](https://github.com/rishabh-397/50-Days-of-Coding) – My journey solving 50 problems in 50 days  
-- 🔗 [Portfolio Website](https://github.com/rishabh-397/Portfolio) – Personal portfolio built using HTML/CSS/JS  
+- 🔗 [Portfolio Website] https://rishabh-397.github.io/my-portfolio/ – Personal portfolio built using HTML/CSS/JS  
 
 ---
 
